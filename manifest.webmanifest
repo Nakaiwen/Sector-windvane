@@ -1,7 +1,7 @@
 {
   "name": "板塊風向儀",
   "short_name": "風向儀",
-  "description": "美股板塊趨勢 × 跨資產資金輪動 × 聰明錢籌碼",
+  "description": "市場環境 × 美股板塊風向 × 跨資產資金輪動 × 個股深入",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
